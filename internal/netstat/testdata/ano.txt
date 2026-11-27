@@ -1,0 +1,10 @@
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1148
+  TCP    0.0.0.0:3000           0.0.0.0:0              LISTENING       48211
+  TCP    127.0.0.1:3000         127.0.0.1:54321        ESTABLISHED     48211
+  TCP    [::]:3000              [::]:0                 ABHOEREN        48211
+  UDP    0.0.0.0:5353           *:*                                    2104
+  UDP    [::]:5353              *:*                                    2104
+  UDP    127.0.0.1:5353         8.8.8.8:53                             2104
